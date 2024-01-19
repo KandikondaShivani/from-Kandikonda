@@ -20,3 +20,10 @@ That's the reason its my favourite restaurant.
 8. Chicken Manchurian
 9. Irani Chai
 10. Filter Coffee
+
+#### Places to Visit near to the Restaurant
+* Kansas City Zoo and Aquarium
+* Rose Gardens
+* Legends Outlets
+* Worlds of Fun/Oceans of Fun
+* Kansas City Royals
