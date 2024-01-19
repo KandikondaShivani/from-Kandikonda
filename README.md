@@ -27,3 +27,6 @@ That's the reason its my favourite restaurant.
 * Legends Outlets
 * Worlds of Fun/Oceans of Fun
 * Kansas City Royals
+
+[Click here](MyMedia.md) to view the contents MyMedia.md File.
+
