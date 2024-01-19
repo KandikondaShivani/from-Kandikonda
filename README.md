@@ -46,6 +46,6 @@ It is important to read a good book at least for a few minutes each day to stret
 ---
 ### Quotes by Scientists that I Like
 
-> We build too many walls and not enough bridges. - * Issac Netwon *
+> We build too many walls and not enough bridges. - *_Issac Netwon_*
 
-> Before anything else, preparation is the key to success. - * Alexander Graham Bell *
+> Before anything else, preparation is the key to success. - *_Alexander Graham Bell_*
