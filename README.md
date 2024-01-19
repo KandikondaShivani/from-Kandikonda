@@ -42,3 +42,10 @@ It is important to read a good book at least for a few minutes each day to stret
 | The Girl in Room 105 |It creates a unique reading experience | Chetan Bhagat |
 | Krsna - The Supreme Personality of Godhead | This book contains an original account of the extraordinary pastimes of Lord Sri Krishna, who appeared on this planet 5,000 years ago | A.C. Bhaktivedanta Swami Prabhupada |
 | The Daughter's Tale | It a  heartbreaking and immersive, it is a beautifully crafted family saga of love, survival, and redemption. | Armando Lucas Correa |
+
+---
+### Quotes by Scientists that I Like
+
+> We build too many walls and not enough bridges. - * Issac Netwon *
+
+> Before anything else, preparation is the key to success. - * Alexander Graham Bell *
