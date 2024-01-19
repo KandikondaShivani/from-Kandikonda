@@ -30,3 +30,15 @@ That's the reason its my favourite restaurant.
 
 [Click here](MyMedia.md) to view the contents MyMedia.md File.
 
+---
+### Books I would Like to Recommend
+
+Reading books is a way to relax and reduce stress. 
+It is important to read a good book at least for a few minutes each day to stretch the brain muscles for healthy functioning.
+
+| Name of the Book | Reason for recommendation | Name of the Author |
+| --- | --- | --- |
+| Mahabharata | A valuable asset of Hindu culture. | Veda Vyasa |
+| The Girl in Room 105 |It creates a unique reading experience | Chetan Bhagat |
+| Krsna - The Supreme Personality of Godhead | This book contains an original account of the extraordinary pastimes of Lord Sri Krishna, who appeared on this planet 5,000 years ago | A.C. Bhaktivedanta Swami Prabhupada |
+| The Daughter's Tale | It a  heartbreaking and immersive, it is a beautifully crafted family saga of love, survival, and redemption. | Armando Lucas Correa |
