@@ -49,3 +49,18 @@ It is important to read a good book at least for a few minutes each day to stret
 > We build too many walls and not enough bridges. - *_Issac Netwon_*
 
 > Before anything else, preparation is the key to success. - *_Alexander Graham Bell_*
+
+---
+
+###### Description of the Snippet
+
+It check whether the collection of elements are true in the TypeScript. It returns true if all elements in a collection are true. 
+
+###### Code Snippet
+
+```
+const all = (arr: T[], fn: (t: T) => boolean = Boolean) => arr.every(fn);
+
+```
+
+Click here to go to  the snippet source <https://code.pieces.app/collections/typescript>
