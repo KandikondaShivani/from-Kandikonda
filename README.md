@@ -52,11 +52,11 @@ It is important to read a good book at least for a few minutes each day to stret
 
 ---
 
-###### Description of the Snippet
+#### Description of the Snippet
 
 It check whether the collection of elements are true in the TypeScript. It returns true if all elements in a collection are true. 
 
-###### Code Snippet
+#### Code Snippet
 
 ```
 const all = (arr: T[], fn: (t: T) => boolean = Boolean) => arr.every(fn);
